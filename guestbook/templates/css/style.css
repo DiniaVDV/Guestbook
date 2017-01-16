@@ -1,0 +1,23 @@
+h2{
+	margin-left: 50px;
+}
+
+
+
+.table{
+	margin-left: 35px;
+	width: 500px;
+	border: solid 2px black;
+}
+
+.form{
+	margin-left: 50px;
+}
+
+.username{
+	width: 250px;
+}
+
+.message{
+	width: 500px;
+}
